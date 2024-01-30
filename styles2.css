@@ -1,0 +1,78 @@
+*.HEADER {
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-align: center;
+    font-size: 18px;
+}
+
+.early-nintendo {
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    display: inline-block;
+    background-size: 200px 200px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: red;
+    z-index: 1;
+    background-image: url(early\ nintendo.jpg);
+}
+
+.NES {
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    display: inline-block;
+    background-size: 200px 200px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: red;
+    z-index: 1;
+    background-image: url(NES.jpg);
+}
+
+.WII {
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    display: inline-block;
+    background-size: 200px 200px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: red;
+    z-index: 1;
+    background-image: url(Wii.jpg); 
+}
+
+.SWITCH {
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    display: inline-block;
+    background-size: 200px 200px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: red;
+    z-index: 1;
+    background-image: url(Switch.jpg);
+}
+body {
+    background-color:lightsalmon ;
+}
+
+.INTROSENTENCE {
+    font-size: 16px;
+    text-align: center;
+}
